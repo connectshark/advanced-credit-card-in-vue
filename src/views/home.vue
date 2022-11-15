@@ -246,6 +246,7 @@ main {
         border-radius: 50%;
         background-color: transparent;
         border: 3rem solid #ffffff11;
+        pointer-events: none;
         &:last-child {
           bottom: 0%;
           right: -70%;
